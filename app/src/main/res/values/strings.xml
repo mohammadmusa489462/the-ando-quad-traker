@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">سجل الفوائت</string>
+    <string name="app_name">الدرر الفوائت</string>
     <string name="widget_today_label">صلوات اليوم</string>
     <string name="widget_next_label">الصلاة الحالية</string>
     <string name="widget_countdown_label">الوقت المتبقي للصلاة</string>
